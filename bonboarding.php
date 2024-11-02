@@ -4,7 +4,7 @@
  * Plugin URI: https://bonboarding.com/wordpress-plugin
  * Description: Create stunning <strong>product tours</strong> to enhance user adoption and engagement with Bonboarding. <strong>No coding required</strong> – design interactive guides, highlight new features, and analyze user interactions to continuously improve the user experience, on any of your WordPress pages.
  * License: GPLv2 or later
- * Version: 1.0.6
+ * Version: 1.0.7
  * Author: Bonboarding
  * Author URI: https://bonboarding.com/
  */
